@@ -1,0 +1,6 @@
+{"nombre":"angel rafael","edad":23,"correo":"angel.r-m-m@.com"}
+{"nombre":"angel rafael","edad":23,"correo":"angel.r-m-m@.com"}
+{"nombre":"angel","edad":23,"correo":"njcanica"}
+{"nombre":"JCNJNDCKJA","edad":211,"correo":" DCK CJ"}
+{"nombre":"javi","edad":45,"correo":"465"}
+{"nombre":"angel","edad":13,"correo":"bcajb"}
